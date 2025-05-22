@@ -37,9 +37,9 @@ Your website should look like the following sketches in small, medium and large 
 
 On a small device, your page should have a 1 column format. The menu items can be shown vertically or you can use a hamburger menu component.
 
-![Small Device Design Sample Image](ref/small.jpg)
+<img alt='Small Device Design Sample Image' src='ref/small.jpg' height=500px>
 
-On medium devices, you will be using a 2s2 grid in the middle of your page.
+On medium devices, you will be using a 2x2 grid in the middle of your page.
 
 ![Medium Device Design Sample Image](ref/med.jpg)
 
